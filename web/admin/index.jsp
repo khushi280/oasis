@@ -3,7 +3,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>SUN RISE ADMIN</title>
+  <title>OASIS ADMIN</title>
   
   
      
@@ -44,7 +44,7 @@
       </div> <!-- end login -->
 
     </div>
-    <div class="bottom">  <h3><a href="../index.jsp">SUN RISE HOMEPAGE</a></h3></div>
+    <div class="bottom">  <h3><a href="../index.jsp">OASIS HOMEPAGE</a></h3></div>
   
   
 </body>
