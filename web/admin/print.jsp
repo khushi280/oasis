@@ -261,7 +261,7 @@ tr:hover .cut { opacity: 1; }
 		<header>
 			<h1>Invoice</h1>
 			<address >
-				<p>SUN RISE HOTEL,</p>
+				<p>OASIS HOTEL,</p>
 				<p>New Kalmunani Road,<br>Mathura,<br>India.</p>
 				<p>(+91) 95 222 44 554</p>
 			</address>
@@ -336,7 +336,7 @@ tr:hover .cut { opacity: 1; }
 		<aside>
 			<h1><span >Contact us</span></h1>
 			<div >
-				<p align="center">Email :- info@sunrise.com || Web :- www.sunrise.com || Phone :- +91 95 222 44 554 </p>
+				<p align="center">Email :- info@oasis.com || Web :- www.oasis.com || Phone :- +91 95 222 44 554 </p>
 			</div>
 		</aside>
 	</body>
