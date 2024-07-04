@@ -4,7 +4,7 @@
 	PreparedStatement ps;
 %>
 <%
-	Connection c=(Connection)application.getAttribute("connection");
+	Connection c=(Connection)application.getAttribute("connection"); 
 %>
 <%
 String sid=request.getParameter("sid");
