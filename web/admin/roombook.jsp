@@ -229,7 +229,7 @@
                                             <th><%=days%></th>
                                             
                                         </tr>
-										<tr>
+									<tr>
                                             <th>Status Level</th>
                                             <th><%=sta%></th>
                                             
